@@ -1,0 +1,5 @@
+git+https://github.com/elasticemail/elasticemail-python.git
+typing-extensions==4.12.2
+frozendict==2.4.4
+certifi==2024.8.30
+pandas==2.0.3
